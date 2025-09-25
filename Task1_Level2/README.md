@@ -15,6 +15,7 @@ This project demonstrates basic JavaScript operations to create a fully function
 % Modulo operation support.
 <br>
 <br>
+<br>
 🌐 Live Demo
 
-🔗 Click here to try the Calculator: https://ayon007-glitch.github.io/OIBSIP/
+🔗 Click here to try the Calculator: https://ayon007-glitch.github.io/Calculator/
